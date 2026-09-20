@@ -1,0 +1,11 @@
+# 内部编写记录，不随教程正文公开
+docs/RAG-Agent双引擎实战教程/进度.md
+
+# OS / 编辑器垃圾文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
